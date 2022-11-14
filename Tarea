@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+	<meta charset="utf-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<link rel="stylesheet" type="text/css" href="css/style.css">
+	<title>MyCardPersonal</title>
+</head>
+<body>
+	<div class="container">
+		<div class="cardPersonal">
+			<div class="cardImagen">
+				<img src="img/pexels-lucas-suárez-13170472.jpg" alt="YoMismo">
+			</div>
+			<div class="cardInfo">
+				<h1>PROTOCOLO COVID</h1>
+				<h2>DEPARTAMENTO DE ADMINISTRACION</h2>
+				<p>Obligatorio uso de mascarillas en hospitales</P>
+				<p>Limpieza constante de las manos con alcohol gel</P>
+				<p>Respetar distanciamiento social</P>
+			</div>
+		</div>
+	</div>		
+</body>
+</html>
